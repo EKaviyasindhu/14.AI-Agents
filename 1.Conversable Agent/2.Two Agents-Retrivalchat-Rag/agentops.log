@@ -1,0 +1,5 @@
+2025-09-29 15:31:13,637 - INFO - [ConcurrentFuturesInstrumentor] Successfully instrumented concurrent.futures.ThreadPoolExecutor
+2025-09-29 15:33:14,822 - ERROR - Error in span llama3.llm: model 'llama3' not found (status code: 404)
+2025-09-29 15:33:14,876 - ERROR - Error in span ag2.agent.assistant.receive: model 'llama3' not found (status code: 404)
+2025-09-29 15:33:14,886 - ERROR - Error in span ag2.chat.ragproxyagent_to_assistant.workflow: model 'llama3' not found (status code: 404)
+2025-09-29 15:33:16,302 - ERROR - [agentops.InternalSpanProcessor] Error uploading logfile: Upload failed: 401
